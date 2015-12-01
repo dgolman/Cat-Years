@@ -12,6 +12,7 @@
 		FD9D784B1C0BBA86004F245C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD9D78491C0BBA86004F245C /* Main.storyboard */; };
 		FD9D784D1C0BBA86004F245C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD9D784C1C0BBA86004F245C /* Assets.xcassets */; };
 		FD9D78501C0BBA86004F245C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD9D784E1C0BBA86004F245C /* LaunchScreen.storyboard */; };
+		FD9D78581C0BBC58004F245C /* cat_PNG1631.png in Resources */ = {isa = PBXBuildFile; fileRef = FD9D78571C0BBC58004F245C /* cat_PNG1631.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FD9D784C1C0BBA86004F245C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD9D784F1C0BBA86004F245C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD9D78511C0BBA86004F245C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD9D78571C0BBC58004F245C /* cat_PNG1631.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_PNG1631.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FD9D78451C0BBA86004F245C /* AppDelegate.swift */,
 				FD9D78471C0BBA86004F245C /* ViewController.swift */,
 				FD9D78491C0BBA86004F245C /* Main.storyboard */,
+				FD9D78571C0BBC58004F245C /* cat_PNG1631.png */,
 				FD9D784C1C0BBA86004F245C /* Assets.xcassets */,
 				FD9D784E1C0BBA86004F245C /* LaunchScreen.storyboard */,
 				FD9D78511C0BBA86004F245C /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD9D78501C0BBA86004F245C /* LaunchScreen.storyboard in Resources */,
+				FD9D78581C0BBC58004F245C /* cat_PNG1631.png in Resources */,
 				FD9D784D1C0BBA86004F245C /* Assets.xcassets in Resources */,
 				FD9D784B1C0BBA86004F245C /* Main.storyboard in Resources */,
 			);
